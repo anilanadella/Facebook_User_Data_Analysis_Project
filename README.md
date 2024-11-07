@@ -5,3 +5,15 @@ This Jupyter project contains exploratory data analysis which gives insights fro
 # About the Dataset
 
 This dataset contains 99903 entries with 15 columns. 
+
+# Skills and Technologies Used
+
+- Data Analytics
+- Python 3
+- Python Libraries
+  - Pandas
+  - MatPlotLib
+  - Numpy
+  - Seaborn
+  - Warnings
+- Markdown Language (.MD) 
