@@ -4,4 +4,4 @@ This Jupyter project contains exploratory data analysis which gives insights fro
 
 # About the Dataset
 
-This dataset contains 99903 entries with 15 columns. You can find the data set here: https://www.kaggle.com/datasets/sheenabatra/facebook-data/data
+This dataset contains 99903 entries with 15 columns. 
